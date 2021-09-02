@@ -1,0 +1,1 @@
+This is a static Web application created by me and my friends using HTML,CSS and Javascript.
